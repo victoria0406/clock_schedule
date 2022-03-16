@@ -8,10 +8,10 @@
 3. 혼자 하는 프로젝트이지만, sw process model을 적용시켜, 조금 더 계획적이고 효율적인 프로젝트를 진행해보자.
 4. 실사용이 목표이므로, 배터리 사용량이나 전환 속도등을 고려하자. 
 
-### UI 디자인
+### UI 디자인  
 ![image](https://user-images.githubusercontent.com/81007362/158586575-081695e5-756d-49c8-9125-0e3f7534075f.png)
-테마 색상
-![image](https://user-images.githubusercontent.com/81007362/158588858-4e23401f-da95-4175-b797-723524c81461.png)
+### 테마 색상  
+<p align="center"><img src="https://user-images.githubusercontent.com/81007362/158588858-4e23401f-da95-4175-b797-723524c81461.png"></p>
 
 
 특징
