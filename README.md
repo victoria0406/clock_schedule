@@ -9,7 +9,7 @@
 4. 실사용이 목표이므로, 배터리 사용량이나 전환 속도등을 고려하자. 
 
 ### UI 디자인  
-![image](https://user-images.githubusercontent.com/81007362/158586575-081695e5-756d-49c8-9125-0e3f7534075f.png)
+![image](https://user-images.githubusercontent.com/81007362/158601258-9e99b6c8-6f60-4f9b-89c6-fd595e85a223.png)
 ### 테마 색상  
 <p align="center"><img src="https://user-images.githubusercontent.com/81007362/158588858-4e23401f-da95-4175-b797-723524c81461.png"></p>
 
